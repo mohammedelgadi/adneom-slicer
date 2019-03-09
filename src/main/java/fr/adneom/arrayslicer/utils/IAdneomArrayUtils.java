@@ -12,7 +12,6 @@ public interface IAdneomArrayUtils<T> {
     /**
      * <p>Utility method used for slicing list of items<br>
      * to multiple sublist having specified size (chunkSize)<br>
-     * Using java8 Collectors library to chunk list</p>
      *
      * <h3>Example 1 :</h3>
      * <ul>
